@@ -30,26 +30,15 @@
 
 ### Map of Security Goals and Related Attacks or Mechanisms
 
-\textbf{Security Goal} & \textbf{Relevant attack or mechanism} \\
-\hline
-(Data Origin) Authenticity & Forging or replacing frames, spoofing, fuzzing attack, masquerading frames, message injection, cloaking attack, fabrication, man-in-the-middle attack \\
-\hline
-Integrity & Manipulation, tampering, modifying data fields \\
-\hline
-Authorization & Access control, unauthorized access and usage \\
-\hline
-Freshness & Replay attack \\
-\hline
-Non-repudiation & N/A. No study in this class was found. \\
-\hline
-Privacy & N/A. Studies explicitly mentioned privacy were classified in this class. \\
-\hline
-Anonymity & N/A. No study in this class was found. \\
-\hline
-Confidentiality & Sniffing, reverse engineering, inspectation, message encryption, eavesdropping \\
-\hline
-Availability & Denial-of-Service (Dos) attack, interruption, suspension attack, message dropping \\
-\hline
+- (Data Origin) Authenticity: Forging or replacing frames, spoofing, fuzzing attack, masquerading frames, message injection, cloaking attack, fabrication, man-in-the-middle attack 
+- Integrity: Manipulation, tampering, modifying data fields 
+- Authorization: Access control, unauthorized access and usage 
+- Freshness: Replay attack 
+- Non-repudiation:  N/A. No study in this class was found. 
+- Privacy: N/A. Studies explicitly mentioned privacy were classified in this class.
+- Anonymity: N/A. No study in this class was found. 
+- Confidentiality:  Sniffing, reverse engineering, inspectation, message encryption, eavesdropping 
+- Availability: Denial-of-Service (Dos) attack, interruption, suspension attack, message dropping 
 
 ### Further work
 - Improving performance: To improve the performance of the proposed solutions, including improving the practicability or effectiveness, implementing HW modules, overcoming current limitations, reducing cost, etc.
